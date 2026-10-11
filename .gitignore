@@ -1,0 +1,23 @@
+# Ambiente virtuale locale (ricreato da avvia.bat / avvia.ps1)
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Build e pacchetti (PyInstaller, ecc.)
+build/
+dist/
+*.spec
+
+# Configurazioni locali con dati personali (config.json si crea da config.example.json)
+config.json
+.env
+config.local.json
+
+# Log del programma
+cheatsheet.log
+
+# File generati da Windows
+Thumbs.db
+desktop.ini

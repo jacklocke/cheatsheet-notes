@@ -1,0 +1,12 @@
+{
+  "poll_ms": 500,
+  "monitor": 2,
+  "vault": "C:\\Users\\<utente>\\Documents\\ObsidianVault",
+  "apps": {
+    "Code.exe": "guides/vscode.md",
+    "chrome.exe": "guides/chrome.md",
+    "Obsidian.exe": "guides/obsidian.md",
+    "WindowsTerminal.exe": "guides/windows-terminal.md",
+    "notepad++.exe": "guides/notepad++.md"
+  }
+}
